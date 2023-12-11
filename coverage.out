@@ -1,0 +1,23 @@
+mode: set
+testing_go/controller/poke_api_handler.go:21.76,23.16 2 1
+testing_go/controller/poke_api_handler.go:23.16,25.3 1 0
+testing_go/controller/poke_api_handler.go:26.2,30.16 4 1
+testing_go/controller/poke_api_handler.go:30.16,32.3 1 0
+testing_go/controller/poke_api_handler.go:35.57,40.40 3 1
+testing_go/controller/poke_api_handler.go:40.40,42.3 1 0
+testing_go/controller/poke_api_handler.go:44.2,44.16 1 1
+testing_go/controller/poke_api_handler.go:44.16,46.3 1 0
+testing_go/controller/poke_api_handler.go:48.2,50.16 2 1
+testing_go/controller/poke_api_handler.go:50.16,52.3 1 0
+testing_go/controller/poke_api_handler.go:53.2,53.50 1 1
+testing_go/controller/poke_api_handler.go:56.78,61.48 3 1
+testing_go/controller/poke_api_handler.go:61.48,63.3 1 1
+testing_go/controller/poke_api_handler.go:64.2,64.42 1 1
+testing_go/controller/poke_api_handler.go:64.42,66.3 1 1
+testing_go/controller/poke_api_handler.go:67.2,67.16 1 1
+testing_go/controller/poke_api_handler.go:67.16,69.3 1 0
+testing_go/controller/poke_api_handler.go:70.2,71.16 2 1
+testing_go/controller/poke_api_handler.go:71.16,73.3 1 0
+testing_go/controller/poke_api_handler.go:75.2,78.16 3 1
+testing_go/controller/poke_api_handler.go:78.16,80.3 1 0
+testing_go/controller/poke_api_handler.go:81.2,81.24 1 1

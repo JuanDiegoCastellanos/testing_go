@@ -1,0 +1,15 @@
+go test ./folder/ --> corre los test que encuentre
+go test ./folder/ -run=TesName --> corre el test especifico
+//coverage 
+
+go test ./controller -coverprofile=coverage.out
+
+go tool cover -html=coverage.out
+
+go tool cover -html=coverage.out -o coverage.html
+
+
+go test ./util -run=Parser -bench= >bench.old
+
+
+//Framework ginkgo --bbd
